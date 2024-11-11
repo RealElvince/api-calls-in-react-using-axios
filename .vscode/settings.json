@@ -1,0 +1,9 @@
+{
+    "git.autofetch": false,
+    "git.enabled": true,
+    "git.enableSmartCommit": true,
+    "git.enableCommitSigning": false,
+    "git.verboseCommit": false,
+    "git.decorations.enabled": true,
+    "git.branchRandomName.enable": false
+}
